@@ -14,7 +14,7 @@
 ## 使用
 
 ```bash
-git clone --recurse-submodules git@github.com:pangcheng1849/lenny-help-me.git
+git clone --recurse-submodules git@github.com:Ben2pc/lenny-help-me.git
 ```
 
 在项目目录下启动 Claude Code / Codex 等 AI 编码工具，直接提问即可。
